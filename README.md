@@ -1,41 +1,41 @@
-# 🧠 Grover’s Quantum Search Algorithm
+# Grover’s Quantum Search Algorithm
 
 This project implements **Grover’s Algorithm** using **Qiskit** to demonstrate **quantum speedup** in searching an unsorted dataset.
 
-## ⚡ Overview
+## Overview
 - **Hackathon:** Planck’d 2025 (Quantum Computing Club, IIIT Bangalore)
 - **Track:** Quantum Algorithms
 - **Team Members:** Harsh Mandaliya, Prajapati Sanjay, Member 3, Member 4
 
-## 🧩 Algorithm Steps
+## Algorithm Steps
 1. Initialize qubits in superposition.
 2. Apply Oracle to mark target.
 3. Apply Diffuser to amplify the marked state.
 4. Repeat (Oracle + Diffuser).
 5. Measure and analyze results.
 
-## 🧰 Tools & Frameworks
+## Tools & Frameworks
 - Python 3.12
 - Qiskit
 - Matplotlib
 - IBM Quantum Simulator
 
-## 📊 Results
+## Results
 Grover’s algorithm successfully identified the target state (e.g., `|101⟩`) with high probability.
 
 | Classical | Quantum |
 |------------|----------|
 | O(N) | O(√N) |
 
-## 📎 Files Included
+## Files Included
 - `grover_algorithm.py` – Full implementation code  
 - `Planckd_Grover_Algorithm_Presentation.pptx` – Hackathon presentation  
 - `Planckd_Grover_Algorithm_Report.pdf` – Full project report  
 
-## 🚀 Future Work
+## Future Work
 - Run on IBM Quantum hardware  
 - Extend to cryptographic and optimization problems  
 
-## 👨‍💻 Authors
+## Authors
 - Harsh Mandaliya  
-- Prajapati Sanjay  
+- Ritik Kalal  
