@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Grover’s Quantum Search Algorithm
 
 This project implements **Grover’s Algorithm** using **Qiskit** to demonstrate **quantum speedup** in searching an unsorted dataset.
@@ -40,7 +39,7 @@ Grover’s algorithm successfully identified the target state (e.g., `|101⟩`) 
 ## Authors
 - Harsh Mandaliya  
 - Ritik Kalal  
-=======
-# Grover-Quantum-Algorithm
-Grover’s Quantum Search Algorithm implemented in Qiskit for Planck’d Hackathon.
->>>>>>> bf90bce1a6541c65dec4605796bcc0ab7ed4d697
+
+# Grover’s Quantum Search Algorithm implemented in Qiskit for Planck’d Hackathon.
+
+
